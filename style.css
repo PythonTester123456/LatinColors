@@ -1,0 +1,27 @@
+
+  .h2{
+    font-weight: normal;
+  }
+  
+  #red{
+    color:red;
+  }
+  #blue{
+    color:blue
+  }
+  #orange{
+    color:orange;
+  }
+  #green{
+    color:green;
+  }
+  #yellow{
+    color:yellow;
+  }
+  li[value="4"]{
+    color:blue;
+  }
+  img {
+     height: 200px;
+     width: 200px;
+  }
